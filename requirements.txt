@@ -1,9 +1,5 @@
 streamlit
-google-generativeai
+google-genai
 python-dotenv
-langchain
-PyPDF2
-chromadb
-faiss-cpu
-pdf2image
-sqlite3
+pandas
+plotly
