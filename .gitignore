@@ -64,8 +64,7 @@ dist/
 # Ignore database
 *.db
 
-# Ignore videos
-*.mp4
+
 
 # Ignore virtual environment
 myenv/
